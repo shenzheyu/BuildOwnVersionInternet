@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/usr/bin/python",
+    "files.associations": {
+        "ctcp_linked_list.h": "c",
+        "ctcp_utils.h": "c",
+        "ctcp_sys.h": "c",
+        "ctcp_bbr.h": "c"
+    }
+}
